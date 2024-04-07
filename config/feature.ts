@@ -39,9 +39,7 @@ export const FEATURES_EN = [
 ];
 
 
-import { AiOutlineAi } from "react-icons/ai"; // Assuming you have an AI icon or similar
-import { IoMdSpeedometer } from "react-icons/io"; // For performance optimization
-import { SiYourIconForCustomization } from "react-icons/si"; // Assuming you have a custom icon for easy customization
+
 
 export const FEATURES_ZH = [
   {
