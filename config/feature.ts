@@ -39,42 +39,42 @@ export const FEATURES_EN = [
 ];
 
 
-// import { AiOutlineAi } from "react-icons/ai"; // Assuming you have an AI icon or similar
-// import { IoMdSpeedometer } from "react-icons/io"; // For performance optimization
-// import { SiYourIconForCustomization } from "react-icons/si"; // Assuming you have a custom icon for easy customization
+import { AiOutlineAi } from "react-icons/ai"; // Assuming you have an AI icon or similar
+import { IoMdSpeedometer } from "react-icons/io"; // For performance optimization
+import { SiYourIconForCustomization } from "react-icons/si"; // Assuming you have a custom icon for easy customization
 
-// export const FEATURES_ZH = [
-//   {
-//     title: "AI 驱动输入",
-//     content: "借助先进的 AI 技术，Handleit 能够提供智能的打字建议，大幅提高打字速度和准确性。",
-//     icon: AiOutlineAi,
-//   },
-//   {
-//     title: "无缝集成",
-//     content: "Handleit 可无缝集成到 iOS 系统，提供流畅的用户体验。",
-//     icon: FaMobileAlt,
-//   },
-//   {
-//     title: "个性化定制",
-//     content: "Handleit 提供丰富的个性化定制选项，包括主题、字体和更多。",
-//     icon: SiYourIconForCustomization,
-//   },
-//   {
-//     title: "性能优化",
-//     content: "Handleit 专为提供最佳性能而优化，确保快速响应和低延迟。",
-//     icon: IoMdSpeedometer,
-//   },
-//   {
-//     title: "简单部署",
-//     content: "Handleit 支持云同步，方便用户在多设备间同步设置和偏好。",
-//     icon: MdCloudUpload,
-//   },
-//   {
-//     title: "多语言支持",
-//     content: "支持多种语言输入，让你轻松应对全球化通讯需求。",
-//     icon: FaGlobeAsia,
-//   },
-// ];
+export const FEATURES_ZH = [
+  {
+    title: "AI 驱动输入",
+    content: "借助先进的 AI 技术，Handleit 能够提供智能的打字建议，大幅提高打字速度和准确性。",
+    icon: BsGithub,
+  },
+  {
+    title: "无缝集成",
+    content: "Handleit 可无缝集成到 iOS 系统，提供流畅的用户体验。",
+    icon: BsGithub,
+  },
+  {
+    title: "个性化定制",
+    content: "Handleit 提供丰富的个性化定制选项，包括主题、字体和更多。",
+    icon: BsGithub,
+  },
+  {
+    title: "性能优化",
+    content: "Handleit 专为提供最佳性能而优化，确保快速响应和低延迟。",
+    icon: BsGithub,
+  },
+  {
+    title: "简单部署",
+    content: "Handleit 支持云同步，方便用户在多设备间同步设置和偏好。",
+    icon: BsGithub,
+  },
+  {
+    title: "多语言支持",
+    content: "支持多种语言输入，让你轻松应对全球化通讯需求。",
+    icon: BsGithub,
+  },
+];
 
 
 export const FEATURES_JA = [
