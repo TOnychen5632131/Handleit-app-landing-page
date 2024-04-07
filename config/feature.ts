@@ -1,80 +1,81 @@
 import { LucideIcon, MagnetIcon } from "lucide-react";
 import { IconType } from "react-icons";
 import { BsGithub } from "react-icons/bs";
-import { FaToolbox } from "react-icons/fa";
+import { FaGlobeAsia, FaMobileAlt, FaToolbox } from "react-icons/fa";
 import { FaEarthAsia, FaMobileScreenButton } from "react-icons/fa6";
 import { MdCloudUpload } from "react-icons/md";
 
 export const FEATURES_EN = [
   {
-    title: "Open Source Advantage",
-    content: "Completely free with a wealth of customization options.",
-    icon: BsGithub,
+    title: "AI-Powered Typing",
+    content: "Leverage the power of AI to predict and suggest replies, making typing faster and more intuitive.",
+    icon: BsGithub, // Consider replacing or creating a custom icon that better represents AI
   },
   {
-    title: "Responsive Design",
-    content:
-      "Templates meticulously designed to ensure optimal display on any device.",
-    icon: FaMobileScreenButton,
+    title: "Seamless Integration",
+    content: "Designed to integrate flawlessly with iOS, ensuring a native and smooth experience.",
+    icon: FaMobileAlt, // Changed from FaMobileScreenButton for compatibility
   },
   {
-    title: "Easy Customization",
-    content:
-      "Effortlessly change colors, fonts, and layouts without any coding knowledge.",
+    title: "Automatic Theme Adaptation",
+    content: "Handleit intuitively adjusts its theme to align with your system's settings, offering a seamless and personalized typing experience without any manual effort or need for coding.",
     icon: FaToolbox,
   },
   {
-    title: "SEO Optimized",
-    content:
-      "Templates built with search engine optimization in mind to enhance your website's discoverability.",
-    icon: MagnetIcon,
+    title: "Privacy-First Approach",
+    content: "Built with privacy as a priority, Handleit ensures your data and typing history remain secure.",
+    icon: MagnetIcon, // Consider if another icon could better represent privacy or security
   },
   {
-    title: "One-Click Deployment",
-    content:
-      "Tightly integrated with leading web hosting services for instant website publishing.",
+    title: "Ready to Use",
+    content: "Designed for simplicity and ease, Handleit requires no complicated setup. From download to daily use, everything is smooth and intuitive, ensuring your experience is always up-to-date without any extra effort.",
     icon: MdCloudUpload,
   },
   {
-    title: "Globalization Support",
-    content:
-      "Supports multiple languages, making your website attractive to a global audience.",
-    icon: FaEarthAsia,
+    title: "Multilingual Support",
+    content: "Communicate globally with support for multiple languages, breaking down language barriers.",
+    icon: FaGlobeAsia, // Changed from FaEarthAsia for compatibility
   },
 ];
 
+
+import { AiOutlineAi } from "react-icons/ai"; // Assuming you have an AI icon or similar
+import { IoMdSpeedometer } from "react-icons/io"; // For performance optimization
+import { SiYourIconForCustomization } from "react-icons/si"; // Assuming you have a custom icon for easy customization
+
 export const FEATURES_ZH = [
   {
-    title: "开源优势",
-    content: "完全免费，提供丰富的自定义选项。",
-    icon: BsGithub,
+    title: "AI 驱动输入",
+    content: "借助先进的 AI 技术，Handleit 能够提供智能的打字建议，大幅提高打字速度和准确性。",
+    icon: AiOutlineAi,
   },
   {
-    title: "响应式设计",
-    content: "精心设计的模板，确保在任何设备上都能优化显示。",
-    icon: FaMobileScreenButton,
+    title: "无缝集成",
+    content: "Handleit 可无缝集成到 iOS 系统，提供流畅的用户体验。",
+    icon: FaMobileAlt,
   },
   {
-    title: "易于定制",
-    content: "轻松更改颜色、字体和布局，无需任何编码知识。",
-    icon: FaToolbox,
+    title: "个性化定制",
+    content: "Handleit 提供丰富的个性化定制选项，包括主题、字体和更多。",
+    icon: SiYourIconForCustomization,
   },
   {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
-    icon: MagnetIcon,
+    title: "性能优化",
+    content: "Handleit 专为提供最佳性能而优化，确保快速响应和低延迟。",
+    icon: IoMdSpeedometer,
   },
   {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
+    title: "简单部署",
+    content: "Handleit 支持云同步，方便用户在多设备间同步设置和偏好。",
     icon: MdCloudUpload,
   },
   {
-    title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
-    icon: FaEarthAsia,
+    title: "多语言支持",
+    content: "支持多种语言输入，让你轻松应对全球化通讯需求。",
+    icon: FaGlobeAsia,
   },
 ];
+
 
 export const FEATURES_JA = [
   {
@@ -93,7 +94,7 @@ export const FEATURES_JA = [
     icon: FaToolbox,
   },
   {
-    title: "SEO最適化",
+    title: "SEO 最適化",
     content: "ウェブサイトの発見可能性を高めるために、検索エンジン最適化を念頭に置いて構築されたテンプレート。",
     icon: MagnetIcon,
   },

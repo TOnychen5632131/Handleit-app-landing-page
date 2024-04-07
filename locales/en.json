@@ -1,43 +1,59 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Type Less, ",
+    "title2": "Express More",
+    "title3": "Beyond Typing",
+    "description": "Introducing Handleit, an AI-powered iOS keyboard app revolutionizing your communication. With intelligent reply suggestions, Handleit enables swift, effortless responses in any language."
   },
   "SocialProof": {
-    "maker": "makers ship fast"
+    "maker": "Join the community of communicators who type smarter, not harder."
   },
   "Feature": {
-    "title": "Features"
+    "title": "Why Handleit Stands Out"
   },
   "Pricing": {
-    "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "The page you are currently viewing is an open-source, free boilerplate.",
-    "doYouLike": "Do you like this landing page boilerplate?",
-    "follow": "Follow my Twitter."
+    "title": "Flexible Pricing for Everyone",
+    "title2": "Choose the Plan That's Right for You.",
+    "description": "Whether you're an individual looking to enhance your typing experience or an enterprise seeking efficient communication solutions, Handleit offers competitive pricing tailored to your needs.",
+    "individual": {
+      "title": "Individual Plan",
+      "price": "$5.99/month",
+      "features": [
+        "AI-powered typing suggestions",
+        "Seamless integration with iOS",
+        "Supports multiple languages",
+        "Sync settings across devices"
+      ],
+      "cta": "Get Started"
+    },
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "description": "For enterprise solutions and private deployments, please contact us for customized pricing options tailored to your organization's specific needs.",
+      "cta": "Contact Us for Pricing"
+    },
+    "doYouLike": "Impressed by Handleit's capabilities?",
+    "follow": "Stay updated with our latest features on Twitter."
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "If you use this landing page template and recommend it on your Twitter,",
-    "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "title": "Love from Our Users",
+    "description1": "Your support and feedback on Twitter inspire us. If you've enjoyed using Handleit,",
+    "description2": "we'd love to hear from you",
+    "description3": ". Your tweet could be featured here, showcasing how Handleit has transformed your typing experience."
   },
   "FAQ": {
-    "title": "FAQs",
-    "description": "Here are some of the most frequently asked questions."
+    "title": "Have Questions?",
+    "description": "We've compiled answers to some of your most common questions about Handleit."
   },
   "CTA": {
-    "title": "Build Your Landing Page Now",
-    "description1": "Build",
-    "description2": "your landing page,",
-    "description3": "show",
-    "description4": "your product, and",
-    "description5": "start earning",
-    "description6": "!"
+    "title": "Start Typing Smarter Today",
+    "description1": "Elevate",
+    "description2": "your typing experience,",
+    "description3": "enhance",
+    "description4": "communication, and",
+    "description5": "embrace efficiency",
+    "description6": "with Handleit!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Download Handleit"
   }
 }

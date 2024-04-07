@@ -1,43 +1,43 @@
 {
   "Hero": {
-    "title1": "快速构建",
-    "title2": "落地页",
+    "title1": "提升输入体验",
+    "title2": "使用 Handleit",
     "title3": "",
-    "description": "一个免费、开源且强大的落地页模板，适用于各种项目，让你在一个小时内搭建落地页。"
+    "description": "Handleit 是一个 AI 驱动的 iOS 键盘应用，旨在革新你的沟通方式。它能智能提供回复建议，帮助你以任何语言迅速、轻松地做出响应。"
   },
   "SocialProof": {
-    "maker": "制作者快速开发"
+    "maker": "加入全球用户，体验智能输入"
   },
   "Feature": {
-    "title": "Feature"
+    "title": "特点"
   },
   "Pricing": {
     "title": "定价",
-    "title2": "拥有无限访问权限",
-    "description": "你当前查看的页面是一个开源的、免费的模板。",
-    "doYouLike": "你喜欢这个落地页模板吗？",
-    "follow": "关注我的推特。"
+    "title2": "解锁全部功能",
+    "description": "Handleit 提供基础免费版本。为获取更高级的 AI 输入建议和个性化选项，可选择我们的订阅服务。",
+    "doYouLike": "你是否被 Handleit 的智能输入功能所吸引？",
+    "follow": "关注我们的推特以了解最新动态。"
   },
   "WallOfLove": {
-    "title": "Wall of Love",
-    "description1": "如果你使用这个落地页模板并在推特上推荐了，",
-    "description2": "请告诉我",
-    "description3": "，我会在这里展示你的推文和推荐。"
+    "title": "用户爱墙",
+    "description1": "如果你喜欢 Handleit 并在推特上分享你的体验，",
+    "description2": "请不吝告知我们",
+    "description3": "。我们非常乐于在这里展示你的故事！"
   },
   "FAQ": {
-    "title": "FAQs",
-    "description": "这里有一些最常见的问题。"
+    "title": "常见问题",
+    "description": "以下是一些用户最常问的问题，可能会帮助你更好地了解 Handleit。"
   },
   "CTA": {
-    "title": "立即构建你的落地页",
-    "description1": "构建",
-    "description2": "你的落地页，",
-    "description3": "展示",
-    "description4": "你的产品，并开始",
-    "description5": "赚取收入",
-    "description6": "！"
+    "title": "立即体验智能输入",
+    "description1": "通过 Handleit",
+    "description2": "提升你的输入效率，",
+    "description3": "享受",
+    "description4": "流畅沟通，并",
+    "description5": "提高",
+    "description6": "工作效率！"
   },
   "CTAButton": {
-    "title": "获取模板"
+    "title": "立即下载"
   }
 }

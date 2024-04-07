@@ -1,75 +1,74 @@
-
 export const WALL_OF_LOVE = [
   {
     user: {
-      name: "Founder",
-      username: "weijunext",
+      name: "Tech Innovator",
+      username: "handleit_innovator",
       image: "/images/users/weijunext.jpeg",
     },
     content:
-      "As a front-end developer, I'm highly satisfied with this landing page template. Editing text and images was very intuitive, and I encountered no technical hurdles throughout the process. The template's responsive design is excellent as well; whether on mobile or desktop, the page layout adapts perfectly. I managed to launch my own product's landing page in just half a day, significantly boosting my efficiency.",
+      "Discovering Handleit was a game-changer for my workflow. The AI-driven suggestions have made typing not just faster but also more enjoyable. Seeing my ideas materialize on the screen almost instantaneously is nothing short of magic. A big thumbs up to the team for creating such a revolutionary tool!",
   },
   {
     user: {
-      name: "User1",
-      username: "weijunext",
+      name: "Global Nomad",
+      username: "world_explorer",
       image: "/images/users/1.png",
     },
     content:
-      "This template has given me a new perspective on coding. As a backend developer with not much front-end experience, I found this template to be very user-friendly. I could build a professional-looking landing page with hardly any coding required. This not only saved me time but also sparked more interest in front-end development.",
+      "As someone who communicates in multiple languages daily, Handleit's multilingual support has been a lifesaver. Switching between languages is seamless, and the accuracy of suggestions is impressive. It's like having a personal assistant who understands every language I speak.",
   },
   {
     user: {
-      name: "User2",
-      username: "weijunext",
+      name: "Startup Founder",
+      username: "startup_guru",
       image: "/images/users/2.png",
     },
     content:
-      "As a developer who transitioned from design, I'm impressed with the aesthetic design of this template. It's not only easy to use but also comes with a default design that feels both modern and professional. I made some adjustments to the details to match my brand style, and the entire process was both simple and enjoyable.",
+      "In the fast-paced world of startups, every second counts. Handleit has significantly reduced the time my team and I spend on typing and responding to emails. It's not just about speed, though; the quality of communication has improved too. Handleit understands the context and suggests replies that are on point.",
   },
   {
     user: {
-      name: "User3",
-      username: "weijunext",
+      name: "Freelance Writer",
+      username: "creative_pen",
       image: "/images/users/3.png",
     },
     content:
-      "The performance of this template is outstanding, with very fast loading times and SEO-friendly features. As a developer focused on product optimization, I appreciate the high performance and optimization of the template. With simple modifications, I was able to further optimize my landing page, improving the speed at which users can access it. The SEO friendliness of the template also helped my page achieve better rankings in search engines.",
+      "As a writer, I never thought I'd rely on an AI for help with typing. But Handleit has proven me wrong. Its suggestions are thoughtful and have sparked creative ideas for my articles and stories. It's like having a brainstorming partner who's always ready to contribute.",
   },
   {
     user: {
-      name: "User4",
-      username: "weijunext",
+      name: "Digital Nomad",
+      username: "nomad_digital",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "Traveling and working from different corners of the world is thrilling but comes with its set of challenges, especially communication. Handleit's easy customization and cloud sync mean my preferred settings are always with me, no matter the device I'm on. It's truly made for the digital nomad lifestyle.",
   },
   {
     user: {
-      name: "User5",
-      username: "weijunext",
+      name: "Language Learner",
+      username: "polyglot_journey",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "Learning new languages is a passion of mine, and Handleit has been an unexpected tool in my journey. It helps me practice typing in new languages, and the suggestions often teach me new words and phrases. It's an AI keyboard and a language learning companion rolled into one.",
   },
   {
     user: {
-      name: "User6",
-      username: "weijunext",
+      name: "UI/UX Designer",
+      username: "design_wizard",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
+      "Design is about more than just visuals; it's about creating seamless experiences. Handleit embodies this philosophy. Its interface is sleek, and using it feels intuitive and effortless. It's inspiring to see such attention to detail and user experience.",
   },
   {
     user: {
-      name: "User7",
-      username: "weijunext",
+      name: "Software Developer",
+      username: "code_master",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
+      "I'm always skeptical about tools that promise to boost productivity, but Handleit has earned its place in my toolkit. Whether I'm coding, emailing, or jotting down ideas, it's there, enhancing my typing experience and making sure I stay efficient. It's a developer's best friend.",
   },
 ];

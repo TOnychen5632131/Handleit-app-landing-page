@@ -1,76 +1,72 @@
 export const FAQS_EN = [
   {
-    title: "What is a landing page?",
+    title: "What is Handleit?",
     content:
-      "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+      "Handleit is an innovative iOS keyboard app powered by artificial intelligence. It enhances your typing experience by providing intelligent reply suggestions, enabling swift, effortless responses in any language. Handleit focuses on improving communication efficiency and accuracy, making it ideal for both personal and professional use.",
   },
   {
-    title: "How can I create a landing page?",
+    title: "How does Handleit work?",
     content:
-      "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+      "Handleit uses advanced AI algorithms to analyze the context of your conversations and provides smart, contextually relevant suggestions for replies. Simply install Handleit on your iOS device, and it will seamlessly integrate with your keyboard, offering suggestions as you type.",
   },
   {
-    title: "Why is a landing page important?",
+    title: "Why should I use Handleit?",
     content:
-      "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them towards a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
+      "Handleit significantly improves typing speed and communication efficiency. Its AI-driven suggestions help reduce typing errors and enhance the quality of your messages. It's particularly useful for anyone looking to save time on typing and for those who communicate in multiple languages.",
   },
   {
-    title: "Why choose our landing page boilerplate?",
+    title: "Is Handleit free to use?",
     content:
-      "Our landing page template is free, open-source, and powerful, making it ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while also offering a high degree of customization and responsiveness.",
+      "Handleit not offers a free version with basic features. For users looking to unlock the full potential of Handleit, including advanced AI features and customizations, we offer a premium subscription at an affordable monthly fee.",
   },
   {
-    title: "What skills do I need to use this template?",
+    title: "What languages does Handleit support?",
     content:
-      "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
+      "Handleit is designed to support multiple languages, making it a versatile tool for global communication. Whether you're typing in English, Spanish, French, or any other major language, Handleit provides accurate and contextually appropriate suggestions.",
   },
   {
-    title: "How do I get started with the landing page template?",
+    title: "How do I install Handleit?",
     content:
-      "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
+      "To get started with Handleit, simply download the app from the iOS App Store. Follow the installation instructions, and Handleit will be set as your default keyboard, ready to enhance your typing experience.",
   },
   {
-    title: "Does the landing page template support responsive design?",
+    title: "Can Handleit be used for professional purposes?",
     content:
-      "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
+      "Absolutely. Handleit is designed to cater to both personal and professional communication needs. Its accuracy and efficiency make it an excellent tool for professionals looking to streamline their communication.",
   },
   {
-    title: "Can I use this template for a commercial project?",
+    title: "Do you offer customer support for Handleit users?",
     content:
-      "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
+      "Yes, we offer dedicated customer support for Handleit users. If you encounter any issues or have questions, you can contact us directly through the app or by visiting our website.",
   },
   {
-    title: "Do you offer any customization services?",
+    title: "Can I customize Handleit’s suggestions?",
     content:
-      "We accept paid custom development of landing pages. Please contact us via email at weijunext@gmail.com or Twitter @weijunext.",
+      "Yes, Handleit offers customization options allowing you to tailor the AI suggestions to better suit your typing style and preferences.",
   },
   {
-    title: "Are there any restrictions on using this template?",
+    title: "Is Handleit secure?",
     content:
-      "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
+      "Security and privacy are our top priorities. Handleit uses state-of-the-art encryption to ensure that your data and conversations remain secure and private.",
   },
   {
-    title: "Does this template include SEO optimization features?",
+    title: "How can I provide feedback on Handleit?",
     content:
-      "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
-  },
-  {
-    title: "What should I do if I encounter problems using the template?",
-    content:
-      "If you encounter any issues while using the template, please contact us via Twitter @weijunext.",
+      "We love hearing from our users! If you have feedback or suggestions for Handleit, please reach out to us via our website or social media channels. Your input helps us continue to improve and innovate.",
   },
 ];
+
 
 export const FAQS_ZH = [
   {
     title: "什么是落地页？",
     content:
-      "落地页是为市场营销或广告活动专门创建的独立网页。访问者在点击电子邮件中的链接、Google、Bing、YouTube、Facebook、Instagram、Twitter或网络上类似位置的广告后“降落”到该页面上。与通常具有多个目标并鼓励探索的网页不同，落地页设计有单一焦点或目标，称为行动号召（CTA）。",
+      "落地页是为市场营销或广告活动专门创建的独立网页。访问者在点击电子邮件中的链接、Google、Bing、YouTube、Facebook、Instagram、Twitter 或网络上类似位置的广告后“降落”到该页面上。与通常具有多个目标并鼓励探索的网页不同，落地页设计有单一焦点或目标，称为行动号召（CTA）。",
   },
   {
     title: "我如何创建一个落地页？",
     content:
-      "创建落地页可以分几个步骤完成：1) 选择一个适合你活动需求的落地页模板，或从头开始。2) 确定你的落地页目标和CTA。3) 编写吸引访问者采取行动的引人注目的内容。4) 加入与你信息相符的设计元素，如图片、视频和表单。5) 测试你的页面的可用性和移动响应性。6) 使用SEO最佳实践帮助你的页面被发现。7) 发布你的落地页，并监控其性能以根据需要进行调整。",
+      "创建落地页可以分几个步骤完成：1) 选择一个适合你活动需求的落地页模板，或从头开始。2) 确定你的落地页目标和 CTA。3) 编写吸引访问者采取行动的引人注目的内容。4) 加入与你信息相符的设计元素，如图片、视频和表单。5) 测试你的页面的可用性和移动响应性。6) 使用 SEO 最佳实践帮助你的页面被发现。7) 发布你的落地页，并监控其性能以根据需要进行调整。",
   },
   {
     title: "为什么落地页很重要？",
@@ -90,7 +86,7 @@ export const FAQS_ZH = [
   {
     title: "我如何开始使用落地页模板？",
     content:
-      "开始非常简单。只需从我们的GitHub仓库下载源代码，根据需要编辑文本和图片，然后将其部署到你的服务器上。",
+      "开始非常简单。只需从我们的 GitHub 仓库下载源代码，根据需要编辑文本和图片，然后将其部署到你的服务器上。",
   },
   {
     title: "落地页模板支持响应式设计吗？",
@@ -105,22 +101,22 @@ export const FAQS_ZH = [
   {
     title: "你们提供定制服务吗？",
     content:
-      "我们接受落地页的定制开发服务。请通过电子邮件weijunext@gmail.com或Twitter @weijunext与我们联系。",
+      "我们接受落地页的定制开发服务。请通过电子邮件 weijunext@gmail.com 或 Twitter @weijunext 与我们联系。",
   },
   {
     title: "使用这个模板有任何限制吗？",
     content:
-      "没有。你可以自由使用和修改这个模板。同时，我们鼓励开发者提交PR来共同帮助改进这个落地页模板。",
+      "没有。你可以自由使用和修改这个模板。同时，我们鼓励开发者提交 PR 来共同帮助改进这个落地页模板。",
   },
   {
-    title: "这个模板包括SEO优化功能吗？",
+    title: "这个模板包括 SEO 优化功能吗？",
     content:
-      "是的，我们的模板包含基本的SEO优化功能，帮助你的网页在搜索引擎中获得更好的排名。",
+      "是的，我们的模板包含基本的 SEO 优化功能，帮助你的网页在搜索引擎中获得更好的排名。",
   },
   {
     title: "如果我在使用模板时遇到问题该怎么办？",
     content:
-      "如果你在使用模板时遇到任何问题，请通过Twitter @weijunext 与我们联系。",
+      "如果你在使用模板时遇到任何问题，请通过 Twitter @weijunext 与我们联系。",
   },
 ];
 
@@ -128,12 +124,12 @@ export const FAQS_JA = [
   {
     title: "ランディングページとは何ですか？",
     content:
-      "ランディングページは、マーケティングや広告キャンペーンのために特別に作成された独立したウェブページです。訪問者がメール内のリンクやGoogle、Bing、YouTube、Facebook、Instagram、Twitter、またはウェブ上の類似の場所からの広告をクリックした後に「着陸」する場所です。ウェブページが多くの目標を持ち探索を促すのに対し、ランディングページは行動を促す一つの焦点または目標（CTA）を持って設計されています。",
+      "ランディングページは、マーケティングや広告キャンペーンのために特別に作成された独立したウェブページです。訪問者がメール内のリンクや Google、Bing、YouTube、Facebook、Instagram、Twitter、またはウェブ上の類似の場所からの広告をクリックした後に「着陸」する場所です。ウェブページが多くの目標を持ち探索を促すのに対し、ランディングページは行動を促す一つの焦点または目標（CTA）を持って設計されています。",
   },
   {
     title: "ランディングページはどのように作成しますか？",
     content:
-      "ランディングページの作成はいくつかのステップで行うことができます：1) キャンペーンのニーズに合ったランディングページのテンプレートを選択するか、ゼロから始めます。2) ランディングページの目的とCTAを特定します。3) 訪問者が行動を起こすよう促す魅力的なコンテンツを作成します。4) メッセージと一致する画像、ビデオ、フォームなどのデザイン要素を取り入れます。5) ページの使いやすさとモバイル対応性をテストします。6) ページが見つかるようにSEOのベストプラクティスを使用します。7) ランディングページを公開し、必要に応じて調整を行いながらそのパフォーマンスを監視します。",
+      "ランディングページの作成はいくつかのステップで行うことができます：1) キャンペーンのニーズに合ったランディングページのテンプレートを選択するか、ゼロから始めます。2) ランディングページの目的と CTA を特定します。3) 訪問者が行動を起こすよう促す魅力的なコンテンツを作成します。4) メッセージと一致する画像、ビデオ、フォームなどのデザイン要素を取り入れます。5) ページの使いやすさとモバイル対応性をテストします。6) ページが見つかるように SEO のベストプラクティスを使用します。7) ランディングページを公開し、必要に応じて調整を行いながらそのパフォーマンスを監視します。",
   },
   {
     title: "ランディングページが重要な理由は何ですか？",
@@ -143,7 +139,7 @@ export const FAQS_JA = [
   {
     title: "なぜ私たちのランディングページのボイラープレートを選ぶのですか？",
     content:
-      "私たちのランディングページのテンプレートは無料で、オープンソースで、強力であり、さまざまなプロジェクトやマーケティングキャンペーンに理想的です。1時間以内にランディングページを作成できることで、開発プロセスを簡素化しながら、高度なカスタマイズ性と応答性を提供します。",
+      "私たちのランディングページのテンプレートは無料で、オープンソースで、強力であり、さまざまなプロジェクトやマーケティングキャンペーンに理想的です。1 時間以内にランディングページを作成できることで、開発プロセスを簡素化しながら、高度なカスタマイズ性と応答性を提供します。",
   },
   {
     title: "このテンプレートを使用するために必要なスキルは何ですか？",
@@ -153,7 +149,7 @@ export const FAQS_JA = [
   {
     title: "ランディングページテンプレートを使い始めるにはどうすればいいですか？",
     content:
-      "始めるのは非常に簡単です。GitHubリポジトリからソースコードをダウンロードし、必要に応じてテキストや画像を編集してから、サーバーにデプロイします。",
+      "始めるのは非常に簡単です。GitHub リポジトリからソースコードをダウンロードし、必要に応じてテキストや画像を編集してから、サーバーにデプロイします。",
   },
   {
     title: "ランディングページテンプレートはレスポンシブデザインに対応していますか？",
@@ -168,22 +164,22 @@ export const FAQS_JA = [
   {
     title: "カスタマイズサービスを提供していますか？",
     content:
-      "有料のランディングページのカスタム開発を受け付けています。メールweijunext@gmail.comまたはTwitter @weijunextでお問い合わせください。",
+      "有料のランディングページのカスタム開発を受け付けています。メール weijunext@gmail.com または Twitter @weijunext でお問い合わせください。",
   },
   {
     title: "このテンプレートを使用する際に制限はありますか？",
     content:
-      "いいえ。このテンプレートを自由に使用および変更することができます。同時に、開発者がPRを提出して、このランディングページテンプレートを一緒に改善することを奨励しています。",
+      "いいえ。このテンプレートを自由に使用および変更することができます。同時に、開発者が PR を提出して、このランディングページテンプレートを一緒に改善することを奨励しています。",
   },
   {
-    title: "このテンプレートにはSEO最適化機能が含まれていますか？",
+    title: "このテンプレートには SEO 最適化機能が含まれていますか？",
     content:
-      "はい、テンプレートには基本的なSEO最適化機能が含まれており、検索エンジンでのウェブページのランキング向上に役立ちます。",
+      "はい、テンプレートには基本的な SEO 最適化機能が含まれており、検索エンジンでのウェブページのランキング向上に役立ちます。",
   },
   {
     title: "テンプレートの使用中に問題に遭遇した場合、どうすればよいですか？",
     content:
-      "テンプレートの使用中に問題が発生した場合は、Twitter @weijunextでお問い合わせください。",
+      "テンプレートの使用中に問題が発生した場合は、Twitter @weijunext でお問い合わせください。",
   },
 ];
 

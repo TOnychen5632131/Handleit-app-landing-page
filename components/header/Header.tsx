@@ -1,7 +1,6 @@
 "use client";
 import HeaderLinks from "@/components/header/HeaderLinks";
 import { LangSwitcher } from "@/components/header/LangSwitcher";
-import { siteConfig } from "@/config/site";
 import { MenuIcon } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -26,6 +25,7 @@ const links = [
     label: "FAQ",
     href: "#FAQ",
   },
+  // Add or adjust navigation links as needed for Handleit
 ];
 
 const Header = () => {
@@ -36,19 +36,19 @@ const Header = () => {
         <div className="flex items-center md:gap-x-12">
           <Link
             href="/"
-            aria-label="Landing Page Boilerplate"
-            title="Landing Page Boilerplate"
+            aria-label="Handleit - AI-powered iOS Keyboard"
+            title="Handleit - AI-powered iOS Keyboard"
             className="flex items-center space-x-1 font-bold"
           >
             <Image
-              alt={siteConfig.name}
-              src="/logo.svg"
+              alt="Handleit Logo"
+              src="/logo.svg" // Ensure the logo image path is correct
               className="w-8 h-8"
               width={32}
               height={32}
             />
             <span className="text-gray-950 dark:text-gray-300 hidden md:block">
-              Landing Page Boilerplate
+              Handleit
             </span>
           </Link>
         </div>
@@ -60,7 +60,7 @@ const Header = () => {
                 href={link.href}
                 aria-label={link.label}
                 title={link.label}
-                className="tracking-wide transition-colors duration-200 font-norma"
+                className="tracking-wide transition-colors duration-200 font-normal"
               >
                 {link.label}
               </Link>
@@ -90,19 +90,19 @@ const Header = () => {
                   <div>
                     <Link
                       href="/"
-                      aria-label="Landing Page Boilerplate"
-                      title="Landing Page Boilerplate"
+                      aria-label="Handleit - AI-powered iOS Keyboard"
+                      title="Handleit - AI-powered iOS Keyboard"
                       className="inline-flex items-center"
                     >
                       <Image
-                        alt={siteConfig.name}
-                        src="/logo.svg"
+                        alt="Handleit Logo"
+                        src="/logo.svg" // Ensure the logo image path is correct
                         className="w-8 h-8"
                         width={32}
                         height={32}
                       />
                       <span className="ml-2 text-xl font-bold tracking-wide text-gray-950 dark:text-gray-300">
-                        Landing Page
+                        Handleit
                       </span>
                     </Link>
                   </div>
@@ -110,7 +110,7 @@ const Header = () => {
                     <button
                       aria-label="Close Menu"
                       title="Close Menu"
-                      className="tracking-wide transition-colors duration-200 font-norma"
+                      className="p-2 transition duration-200 rounded focus:outline-none focus:shadow-outline hover:bg-deep-purple-50 focus:bg-deep-purple-50"
                       onClick={() => setIsMenuOpen(false)}
                     >
                       <CgClose />
@@ -125,7 +125,7 @@ const Header = () => {
                           href={link.href}
                           aria-label={link.label}
                           title={link.label}
-                          className="font-medium tracking-wide  transition-colors duration-200 hover:text-deep-purple-accent-400"
+                          className="font-medium tracking-wide transition-colors duration-200 hover:text-deep-purple-accent-400"
                           onClick={() => setIsMenuOpen(false)}
                         >
                           {link.label}

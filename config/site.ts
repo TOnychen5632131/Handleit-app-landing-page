@@ -1,58 +1,53 @@
 import { SiteConfig } from "@/types/siteConfig";
-import { BsGithub, BsTwitterX, BsWechat } from "react-icons/bs";
+import { BsGithub, BsTwitterX } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 
-const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
+const PROJECT_URL = 'https://github.com/yourGitHub/handleit'
 
 const baseSiteConfig = {
-  name: "Landing page boilerplate",
+  name: "Handleit",
   description:
-    "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour.",
-  url: "https://landingpage.weijunext.com",
-  ogImage: "https://landingpage.weijunext.com/og.png",
+    "Handleit revolutionizes typing on iOS with AI-driven suggestions, enabling users to respond with speed and precision. Say goodbye to the hassle of typing out responses and embrace a smarter, efficient communication experience.",
+  url: "https://handleit.com",
+  ogImage: "https://handleit.com/og.png",
   metadataBase: '/',
-  keywords: ["landing page boilerplate", "landing page template", "awesome landing page", "next.js landing page"],
+  keywords: ["AI keyboard", "iOS typing assistant", "efficient communication", "Handleit"],
   authors: [
     {
-      name: "weijunext",
-      url: "https://weijunext.com",
-      twitter: 'https://twitter.com/weijunext',
+      name: "Hadnleit Team",
+      url: "https://yourwebsite.com",
+      twitter: 'https://twitter.com/yourTwitter',
     }
   ],
-  creator: '@weijunext',
-  openSourceURL: 'https://github.com/weijunext/landing-page-boilerplate',
+  creator: '@yourTwitter',
+  openSourceURL: PROJECT_URL,
   themeColors: [
-    { media: '(prefers-color-scheme: light)', color: 'white' },
-    { media: '(prefers-color-scheme: dark)', color: 'black' },
+    { media: '(prefers-color-scheme: light)', color: '#ffffff' }, // Light mode color
+    { media: '(prefers-color-scheme: dark)', color: '#000000' }, // Dark mode color
   ],
-  nextThemeColor: 'dark', // next-theme option: system | dark | light
+  nextThemeColor: 'system', // Recommended to use 'system' for matching user's system theme
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
-    apple: "/logo.png",
+    apple: "/apple-touch-icon.png",
   },
   headerLinks: [
-    { name: 'repo', href: OPEN_SOURCE_URL, icon: BsGithub },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
+    // Adjusted to represent typical sections of a product website
+    { name: 'Features', href: "/#features", icon: BsGithub }, // Assuming GitHub for documentation or code
+    { name: 'Download', href: "https://appstore.com/handleit", icon: BsTwitterX }, // Link to the App Store
+    { name: 'Support', href: "https://handleit.com/support", icon: SiBuymeacoffee } // Support or FAQ section
   ],
   footerLinks: [
-    { name: 'email', href: "mailto:weijunext@gmail.com", icon: MdEmail },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
-    { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
-    { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    { name: 'Contact Us', href: "mailto:support@handleit.com", icon: MdEmail },
+    { name: 'Twitter', href: "https://twitter.com/yourTwitter", icon: BsTwitterX },
+    { name: 'GitHub', href: PROJECT_URL, icon: BsGithub },
+    { name: 'Support', href: "https://handleit.com/support", icon: SiJuejin }, // Example support link
   ],
   footerProducts: [
-    { url: 'https://weijunext.com/', name: 'J实验室' },
-    { url: 'https://smartexcel.cc/', name: 'Smart Excel' },
-    { url: 'https://landingpage.weijunext.com/', name: 'Landing Page Boilerplate' },
-    { url: 'https://nextjs.weijunext.com/', name: 'Next.js Practice' },
-    { url: 'https://starter.weijunext.com/', name: 'Next.js Starter' },
-    { url: 'https://githubbio.com', name: 'Github Bio Generator' },
-    { url: 'https://github.com/weijunext/indie-hacker-tools', name: 'Indie Hacker Tools' },
+    // Can list other products or useful links here. Adjusted for a more focused approach on Handleit
+    { url: 'https://handleit.com/', name: 'Handleit Keyboard' },
+
   ]
 }
 

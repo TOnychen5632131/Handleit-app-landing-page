@@ -1,39 +1,38 @@
-
 import { siteConfig } from "@/config/site";
 import { Tier, TiersEnum } from "@/types/pricing";
 
 export const TIERS_EN: Array<Tier> = [
   {
-    key: TiersEnum.Free,
-    title: "Open-Source / Free",
-    price: "Free",
-    href: siteConfig.openSourceURL || "#",
+    key: TiersEnum.Individual,
+    title: "Individual Plan",
+    price: "$5.99/month",
+    href: "#subscribe", // Assuming this links to a subscription or purchase page
     description:
-      "Freely clone the landing page boilerplate from the GitHub repository.",
+      "Unlock the full potential of your iOS keyboard with AI-powered suggestions, customizable themes, and multilingual support.",
     features: [
-      "Free",
-      "Access to full code",
-      "Secondary development",
-      "MIT License",
+      "AI-powered typing suggestions",
+      "Customizable themes",
+      "Supports multiple languages",
+      "Sync settings across devices",
     ],
-    buttonText: "Get started",
+    buttonText: "Subscribe Now",
     buttonColor: "primary",
     buttonVariant: "solid",
   },
   {
-    key: TiersEnum.Customize,
-    title: "Customize",
-    href: siteConfig.authors[0].twitter || "#",
-    description: "Pay to customize an exclusive landing page.",
-    price: "$188",
+    key: TiersEnum.Enterprise,
+    title: "Enterprise Solutions",
+    price: "Contact Us", // Indicates that the price is negotiable or varies
+    href: "mailto:support@handleit.com", // Assuming this is the contact email
+    description:
+      "Tailored solutions for businesses seeking to enhance communication efficiency. Includes private deployment options.",
     features: [
-      "Access to full code",
-      "Secondary development",
-      "Exclusive style",
-      "One-on-one service",
-      "More exquisite pages",
+      "Private deployment",
+      "One-on-one customization service",
+      "Priority support",
+      "Scalable solutions for teams",
     ],
-    buttonText: "Contact us",
+    buttonText: "Get in Touch",
     buttonColor: "default",
     buttonVariant: "flat",
   },
@@ -45,7 +44,7 @@ export const TIERS_ZH: Array<Tier> = [
     title: "开源 / 免费",
     price: "免费",
     href: siteConfig.openSourceURL || "#",
-    description: "可从GitHub仓库免费克隆落地页模板。",
+    description: "可从 GitHub 仓库免费克隆落地页模板。",
     features: [
       "免费",
       "访问全部代码",
@@ -81,12 +80,12 @@ export const TIERS_JA: Array<Tier> = [
     title: "オープンソース / 無料",
     price: "無料",
     href: siteConfig.openSourceURL || "#",
-    description: "GitHubリポジトリからランディングページのボイラープレートを自由にクローンできます。",
+    description: "GitHub リポジトリからランディングページのボイラープレートを自由にクローンできます。",
     features: [
       "無料",
       "全コードへのアクセス",
       "二次開発",
-      "MITライセンス",
+      "MIT ライセンス",
     ],
     buttonText: "始める",
     buttonColor: "primary",
@@ -102,7 +101,7 @@ export const TIERS_JA: Array<Tier> = [
       "全コードへのアクセス",
       "二次開発",
       "独占スタイル",
-      "1対1のサービス",
+      "1 対 1 のサービス",
       "より精巧なページ",
     ],
     buttonText: "お問い合わせ",
