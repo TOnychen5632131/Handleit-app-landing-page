@@ -20,7 +20,7 @@ export const TIERS_EN: Array<Tier> = [
     buttonVariant: "solid",
   },
   {
-    key: TiersEnum.Enterprise,
+    key: TiersEnum.Customize,
     title: "Enterprise Solutions",
     price: "Contact Us", // Indicates that the price is negotiable or varies
     href: "mailto:support@handleit.com", // Assuming this is the contact email
