@@ -3,7 +3,7 @@ import { Tier, TiersEnum } from "@/types/pricing";
 
 export const TIERS_EN: Array<Tier> = [
   {
-    key: TiersEnum.Individual,
+    key: TiersEnum.Free,
     title: "Individual Plan",
     price: "$5.99/month",
     href: "#subscribe", // Assuming this links to a subscription or purchase page
