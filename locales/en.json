@@ -1,8 +1,8 @@
 {
   "Hero": {
-    "title1": "Type Less, ",
-    "title2": "Express More",
-    "title3": "Beyond Typing",
+    "title1": "Tap Less, ",
+    "title2": "Type",
+    "title3": "More",
     "description": "Introducing Handleit, an AI-powered iOS keyboard app revolutionizing your communication. With intelligent reply suggestions, Handleit enables swift, effortless responses in any language."
   },
   "SocialProof": {
@@ -45,7 +45,7 @@
     "description": "We've compiled answers to some of your most common questions about Handleit."
   },
   "CTA": {
-    "title": "Start Typing Smarter Today",
+    "title": "Start reply Smarter Today",
     "description1": "Elevate",
     "description2": "your typing experience,",
     "description3": "enhance",
