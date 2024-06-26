@@ -45,7 +45,7 @@ export const FAQS_EN = [
       "Yes, Handleit offers customization options allowing you to tailor the AI suggestions to better suit your typing style and preferences.",
   },
   {
-    title: "Is Handleit secure?",
+    title: "Privacy Policy",
     content:
       `1. Information We Collect
 
