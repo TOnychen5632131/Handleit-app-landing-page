@@ -47,7 +47,36 @@ export const FAQS_EN = [
   {
     title: "Is Handleit secure?",
     content:
-      "Security and privacy are our top priorities. Handleit uses state-of-the-art encryption to ensure that your data and conversations remain secure and private.",
+      `1. Information We Collect
+
+Clipboard Data: We temporarily access clipboard data to suggest automated responses based on the text you copy. This data is not stored or used for any other purpose.
+Device Information: We collect information about the device you use to access our app, including model, operating system, and unique device identifiers.
+2. How We Use Your Information
+
+To Provide and Manage the App: We use the information we collect to deliver and enhance our services, process your configurations, and maintain the functionality of the app.
+To Improve User Experience: Information collected helps us tailor the functionality of the app to better meet user needs and preferences.
+3. Data Sharing and Disclosure
+
+No Sale of Data: We do not sell your personal data to third parties.
+Service Providers: We may share your information with service providers who perform services on our behalf, such as hosting, data analysis, and technical support. These providers are bound by confidentiality agreements to ensure the security of your data.
+Legal Compliance and Security: We may disclose information if required by law, where necessary for security, law enforcement, or issues of public importance.
+4. Data Security
+
+Security Measures: We implement a variety of security measures designed to maintain the safety of your personal information when you use our app.
+Data Retention: We retain your information for as long as necessary to provide our services or as required by law.
+5. Your Rights
+
+Access and Control: You can review, edit, or delete your personal data at any time. Please contact us to request access.
+Opt-Out: You can opt out of receiving promotional communications from us by following the unsubscribe instructions provided in the communications.
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+7. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+Email: itsupports@digitalpulse.space
+
+By using HandleIt, you agree to the collection and use of information in accordance with this policy.`,
   },
   {
     title: "How can I provide feedback on Handleit?",
